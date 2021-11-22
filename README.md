@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikeaus897
 - 👀 I’m interested in ... magic
 - 🌱 I’m currently learning ... witchcraft
-- 💞️ I’m looking to collaborate on ...  spellworking
+- 💞️ I’m looking to collaborate on ...  spellworking in c
 - 📫 How to reach me ... ? happy island way
 
 <!---
